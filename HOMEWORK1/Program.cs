@@ -5,9 +5,10 @@
 
 Console.Clear();
 Console.WriteLine("Введите трехзначное число");
-int num = int.Parse(Console.ReadLine());
+int num = int.Parse(Console.ReadLine()); 
+// 567
 int a1 = num/100;
 int a2 = num%10;
-
-Console.Write(a1);
-Console.Write(a2);
+int a3 = num-(a1*100);
+int a4 = a3/10;
+Console.Write(a4);
