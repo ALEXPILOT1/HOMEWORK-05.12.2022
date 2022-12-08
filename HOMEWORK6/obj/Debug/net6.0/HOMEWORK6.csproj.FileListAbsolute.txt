@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\CSHARP\HOMEWORK6\bin\Debug\net6.0\HOMEWORK6.exe
+C:\Users\Александр\Desktop\CSHARP\HOMEWORK6\bin\Debug\net6.0\HOMEWORK6.deps.json
+C:\Users\Александр\Desktop\CSHARP\HOMEWORK6\bin\Debug\net6.0\HOMEWORK6.runtimeconfig.json
+C:\Users\Александр\Desktop\CSHARP\HOMEWORK6\bin\Debug\net6.0\HOMEWORK6.dll
+C:\Users\Александр\Desktop\CSHARP\HOMEWORK6\bin\Debug\net6.0\HOMEWORK6.pdb
+C:\Users\Александр\Desktop\CSHARP\HOMEWORK6\obj\Debug\net6.0\HOMEWORK6.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\CSHARP\HOMEWORK6\obj\Debug\net6.0\HOMEWORK6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\CSHARP\HOMEWORK6\obj\Debug\net6.0\HOMEWORK6.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\CSHARP\HOMEWORK6\obj\Debug\net6.0\HOMEWORK6.AssemblyInfo.cs
+C:\Users\Александр\Desktop\CSHARP\HOMEWORK6\obj\Debug\net6.0\HOMEWORK6.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\CSHARP\HOMEWORK6\obj\Debug\net6.0\HOMEWORK6.dll
+C:\Users\Александр\Desktop\CSHARP\HOMEWORK6\obj\Debug\net6.0\refint\HOMEWORK6.dll
+C:\Users\Александр\Desktop\CSHARP\HOMEWORK6\obj\Debug\net6.0\HOMEWORK6.pdb
+C:\Users\Александр\Desktop\CSHARP\HOMEWORK6\obj\Debug\net6.0\HOMEWORK6.genruntimeconfig.cache
+C:\Users\Александр\Desktop\CSHARP\HOMEWORK6\obj\Debug\net6.0\ref\HOMEWORK6.dll
