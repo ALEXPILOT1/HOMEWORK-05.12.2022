@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\CSHARP\taskfme\obj\Debug\net6.0\taskfme.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\CSHARP\taskfme\obj\Debug\net6.0\taskfme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\CSHARP\taskfme\obj\Debug\net6.0\taskfme.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\CSHARP\taskfme\obj\Debug\net6.0\taskfme.AssemblyInfo.cs
+C:\Users\Александр\Desktop\CSHARP\taskfme\obj\Debug\net6.0\taskfme.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\CSHARP\taskfme\bin\Debug\net6.0\taskfme.exe
+C:\Users\Александр\Desktop\CSHARP\taskfme\bin\Debug\net6.0\taskfme.deps.json
+C:\Users\Александр\Desktop\CSHARP\taskfme\bin\Debug\net6.0\taskfme.runtimeconfig.json
+C:\Users\Александр\Desktop\CSHARP\taskfme\bin\Debug\net6.0\taskfme.dll
+C:\Users\Александр\Desktop\CSHARP\taskfme\bin\Debug\net6.0\taskfme.pdb
+C:\Users\Александр\Desktop\CSHARP\taskfme\obj\Debug\net6.0\taskfme.dll
+C:\Users\Александр\Desktop\CSHARP\taskfme\obj\Debug\net6.0\refint\taskfme.dll
+C:\Users\Александр\Desktop\CSHARP\taskfme\obj\Debug\net6.0\taskfme.pdb
+C:\Users\Александр\Desktop\CSHARP\taskfme\obj\Debug\net6.0\taskfme.genruntimeconfig.cache
+C:\Users\Александр\Desktop\CSHARP\taskfme\obj\Debug\net6.0\ref\taskfme.dll
