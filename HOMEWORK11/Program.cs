@@ -1,6 +1,7 @@
 ﻿// Напишите программу, которая задаёт массив из 8 элементов и выводит их на экран.
 
-Console.WriteLine("Введи количество чисел в массиве ");
+Console.Clear();
+Console.WriteLine("Введи количесвто чисел в массиве");
 int num = int.Parse(Console.ReadLine());
 
 int[] arr = new int[num];
@@ -17,3 +18,8 @@ int [] NewArray( int[] arr)
         
 }
 NewArray(arr);
+
+
+
+
+
