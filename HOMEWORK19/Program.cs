@@ -29,7 +29,7 @@ void Average(int[,] inArr)
 {
     
     int count = 0;
-    int sum = 0;
+    double sum = 0;
     System.Console.Write("Среднее арифметическое столбцов ");
     for (int i = 0; i < inArr.GetLength(0); i++)
     {
