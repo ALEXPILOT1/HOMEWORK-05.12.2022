@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\CSHARP\CLASSWORK6\obj\Debug\net6.0\CLASSWORK6.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\CSHARP\CLASSWORK6\obj\Debug\net6.0\CLASSWORK6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\CSHARP\CLASSWORK6\obj\Debug\net6.0\CLASSWORK6.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\CSHARP\CLASSWORK6\obj\Debug\net6.0\CLASSWORK6.AssemblyInfo.cs
+C:\Users\Александр\Desktop\CSHARP\CLASSWORK6\obj\Debug\net6.0\CLASSWORK6.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\CSHARP\CLASSWORK6\bin\Debug\net6.0\CLASSWORK6.exe
+C:\Users\Александр\Desktop\CSHARP\CLASSWORK6\bin\Debug\net6.0\CLASSWORK6.deps.json
+C:\Users\Александр\Desktop\CSHARP\CLASSWORK6\bin\Debug\net6.0\CLASSWORK6.runtimeconfig.json
+C:\Users\Александр\Desktop\CSHARP\CLASSWORK6\bin\Debug\net6.0\CLASSWORK6.dll
+C:\Users\Александр\Desktop\CSHARP\CLASSWORK6\bin\Debug\net6.0\CLASSWORK6.pdb
+C:\Users\Александр\Desktop\CSHARP\CLASSWORK6\obj\Debug\net6.0\CLASSWORK6.dll
+C:\Users\Александр\Desktop\CSHARP\CLASSWORK6\obj\Debug\net6.0\refint\CLASSWORK6.dll
+C:\Users\Александр\Desktop\CSHARP\CLASSWORK6\obj\Debug\net6.0\CLASSWORK6.pdb
+C:\Users\Александр\Desktop\CSHARP\CLASSWORK6\obj\Debug\net6.0\CLASSWORK6.genruntimeconfig.cache
+C:\Users\Александр\Desktop\CSHARP\CLASSWORK6\obj\Debug\net6.0\ref\CLASSWORK6.dll

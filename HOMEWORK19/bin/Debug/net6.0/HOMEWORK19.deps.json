@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HOMEWORK19/1.0.0": {
+        "runtime": {
+          "HOMEWORK19.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HOMEWORK19/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

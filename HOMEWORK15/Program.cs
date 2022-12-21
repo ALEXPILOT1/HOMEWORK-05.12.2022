@@ -20,7 +20,8 @@ Console.Clear();
 //  Console.Write($"{Array[i]} ");
 // }
 
-
+int[] CreateArray()
+{
 System.Console.WriteLine("Введи числа ");
 string num = Console.ReadLine();
 
@@ -30,6 +31,8 @@ int[] Array = new int[Numbers.Length];
 for (int i = 0; i < Numbers.Length; i++)
 {
  Array[i] = int.Parse(Numbers[i]);
+}
+return Array;
 }
 
 
@@ -47,7 +50,7 @@ void CountNumb( int[] array)
 System.Console.WriteLine($"Количество чисел больше 0 -> {count}");
 }
 
-CountNumb(Array);
+CountNumb(CreateArray());
 
 
 // int[] array = {10 , 15, -16, -151, 2, -6};
