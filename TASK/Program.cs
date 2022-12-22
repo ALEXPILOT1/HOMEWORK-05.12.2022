@@ -20,8 +20,31 @@ void WriteArrayMatrix(string[,] matrix)
     }
 }
 
-void Game(string[,] matrix, int X, int Y)
+int Bonus(int X, int Y , string[,] matrix, int count )
 {
+    
+    while (matrix[Y,X] == "*" )
+    {
+     matrix[Y,X] = " ";    // Y и Х это координаты персонажа
+    int x = new Random().Next( 0, matrix.GetLength(0));
+    int y = new Random().Next(0, matrix.GetLength(1));
+    matrix[y,x] = "*";
+
+    
+    count +=1;
+    } 
+ return count;
+}
+
+void WriteCoordinates(int X, int Y, int count)
+{
+    Console.WriteLine($"X = {X} Y = {Y} Count = {count}");
+}
+
+
+void Game(string[,] matrix, int X, int Y)
+{   
+    int count = 0;
     while (true)
     {
        matrix[Y,X] =" ";
@@ -34,17 +57,23 @@ void Game(string[,] matrix, int X, int Y)
        if (X<0)X=0;
        if(X > matrix.GetLength(1)-1) X = matrix.GetLength(1)-1;
        if(Y > matrix.GetLength(0)-1) Y = matrix.GetLength(0)-1;
-
-        
-       
-
+    
+        count=Bonus(X,  Y, matrix, count); //
 
         matrix[Y,X] = "@";
         Console.Clear();
-        WriteArrayMatrix(matrix);
+        WriteArrayMatrix(matrix); 
 
+        WriteCoordinates(X,Y,count);
+    
     }
 }
 
-WriteArrayMatrix(matrix);
+
+
+WriteArrayMatrix(matrix); ,. // Показ поля перед началом игры
+
 Game(matrix, X, Y);
+
+
+
