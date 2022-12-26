@@ -27,15 +27,13 @@ void PrintArray(int[,] inArray)
 
 void Average(int[,] inArr)
 {
-    
-    int count = 0;
     double sum = 0;
     System.Console.Write("Среднее арифметическое столбцов ");
     for (int i = 0; i < inArr.GetLength(0); i++)
     {
         for (int j = 0; j < inArr.GetLength(1); j++)                
         {                                                           
-          sum +=inArr[i,j];
+          sum +=inArr[j,i];
         }
         System.Console.Write($"{sum/inArr.GetLength(1)} ");
         sum = 0;
